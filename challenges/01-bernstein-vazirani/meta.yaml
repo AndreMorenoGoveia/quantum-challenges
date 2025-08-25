@@ -1,0 +1,6 @@
+id: 01
+title: Bernstein-Vazirani
+difficulty: beginner
+topics: [oracle, speedup, bitstring]
+backends: [qasm, qiskit]
+estimated_time_min: 45
