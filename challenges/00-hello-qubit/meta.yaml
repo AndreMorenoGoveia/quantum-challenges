@@ -1,0 +1,6 @@
+id: 00
+title: Hello Qubit
+difficulty: beginner
+topics: [superposition, measurement]
+backends: [qasm, qiskit]
+estimated_time_min: 15
